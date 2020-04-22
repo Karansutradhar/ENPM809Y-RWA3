@@ -1,0 +1,4 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/Solution RWA3"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/Solution RWA3/cmake-build-debug
