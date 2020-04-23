@@ -1,0 +1,9 @@
+To Do list
+1. Writing the constructor(s) and destructor for each class.
+2. Writing accessors and mutators directly in class definitions (.h).
+3. Checking if need of deep copy constructors for each class.
+4. Modifying classes to allow dynamic binding. (almost done- needs checking)
+5. Shared ptr definition
+7. Making CPP main file
+8. Comments and checking whether follows Google norms
+9. Creating Doxy file and documentation
