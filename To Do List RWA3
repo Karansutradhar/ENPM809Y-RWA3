@@ -1,7 +1,8 @@
 To Do list
 1. Checking if need of deep copy constructors for each class.
-2. Writing UIDs of authors
-3. Comments and checking whether follows Google norms/definitions.
-4. Creating Doxy file and documentation.
-5. Recheck and modifying if needed.
+2. Done the comments for landbasedrobot, checking that and doing it for other classes.
+3. Writing UIDs of authors
+4. Comments and checking whether follows Google norms/definitions.
+5. Creating Doxy file and documentation.
+6. Recheck and modifying if needed.
 
