@@ -1,4 +1,4 @@
-To Do list
+To Do list:
 1. Checking if need of deep copy constructors for each class.
 2. Done the comments for landbasedrobot, checking that and doing it for other classes.
 3. Writing UIDs of authors
@@ -29,3 +29,8 @@ Update: 24th April 2020: 7AM (Sudharsan):
     2. I believe improvements to constructor can be looked into, for naming conventions
       I modified few but if someone can verify the correctness that would be great.
 #--------------------------------------------------------------------------------#
+
+  Further:
+  1. Doxy file generation and check on commenting for all files
+  2. Verification on naming standards and conventions as per Google norms/definitions.
+  3. Writing UIDs of authors
