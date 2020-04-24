@@ -1,2 +1,3 @@
 # ENPM809Y-RWA3
-Developing the structure of a project with two mobile robots
+The project involves developing only the structure of a project using object-oriented programming, inheritance, and
+polymorphism. Two mobile robots are tasked to navigate through a maze and pick up objects.
