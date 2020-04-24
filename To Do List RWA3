@@ -6,3 +6,26 @@ To Do list
 5. Creating Doxy file and documentation.
 6. Recheck and modifying if needed.
 
+Update: 24th April 2020: 7AM (Sudharsan):
+#--------------------------------------------------------------------------------#
+
+  So Far:
+    1. Added comments to the following files
+        -> landbasedrobot.cpp
+        -> landbasedtracked.h
+        -> landbasedtracked.cpp
+        -> landbasedwheeled.h
+        -> landbasedwheeled.cpp
+        -> main.cpp(partial)
+        
+    2. Modified the output message for the following files
+        -> landbasedrobot.cpp
+        -> landbasedtracked.cpp
+
+  Notes:
+    1. I don't think we need a deep copy constructor I thought about it while creating
+      the initial files in the branch, given no pointers in the any of the three classes
+      there is no need for a deep copy constructor.
+    2. I believe improvements to constructor can be looked into, for naming conventions
+      I modified few but if someone can verify the correctness that would be great.
+#--------------------------------------------------------------------------------#

@@ -3,7 +3,7 @@
 * @authors Group 4
 *
 * Karan Sutradhar (117037272)
-* Sudharshan Balasubramani
+* Sudharsan Balasubramani (116298636)
 * Sai Bhamidipati
 * Ashwin Prabhakaran
 * Girish Ethirajan
@@ -19,7 +19,7 @@
 *
 * @section DESCRIPTION
 *
-*  This is an abstract class and two different derived classes
+*  This is an abstract class implementation and two different derived classes
 *  (landbasedtracked and landbasedwheeled) share the attributes
 *  and methods of this base class
 */
@@ -45,113 +45,115 @@ namespace RWA3 {
     public:
         //--methods prototypes
 
-/**
- * @brief it is a pure virtual method that moves the robot up in the maze
- * @param int x_
- * @param int y_
- * @return Returns none
- */
+        /**
+         * @brief it is a pure virtual method that moves the robot up in the maze
+         * @param int x_
+         * @param int y_
+         * @return Returns none
+         */
         virtual void GoUp(int x_,int y_) = 0 ;       //--Move the robot up in the maze
 
-/**
- * @brief it is a pure virtual method that moves the robot down in the maze
- * @param int x_
- * @param int y_
- * @return Returns none
- */
+        /**
+         * @brief it is a pure virtual method that moves the robot down in the maze
+         * @param int x_
+         * @param int y_
+         * @return Returns none
+         */
         virtual void GoDown(int x_,int y_) = 0;     //--Move the robot down in the maze
 
-/**
- * @brief it is a pure virtual method that turns the robot left in the maze
- * @param int x_
- * @param int y_
- * @return Returns none
- */
+        /**
+         * @brief it is a pure virtual method that turns the robot left in the maze
+         * @param int x_
+         * @param int y_
+         * @return Returns none
+         */
         virtual void TurnLeft(int x_, int y_) = 0;       //--Move the robot left in the maze
 
-/**
- * @brief it is a pure virtual method that turns the robot right in the maze
- * @param int x_
- * @param int y_
- * @return Returns none
- */
+        /**
+         * @brief it is a pure virtual method that turns the robot right in the maze
+         * @param int x_
+         * @param int y_
+         * @return Returns none
+         */
         virtual void TurnRight(int x_, int y_) = 0;      //--Move the robot right in the maze
 
-/**
- * @brief it is a pure virtual method that makes the robot pick up an object
- * @param string
- * @return Returns none
- */
+        /**
+         * @brief it is a pure virtual method that makes the robot pick up an object
+         * @param string
+         * @return Returns none
+         */
         virtual void PickUp(std::string) = 0;       //--Arm picks up an object
 
-/**
- * @brief it is a pure virtual method that makes the robot release an object
- * @param string
- * @return Returns none
- */
+        /**
+         * @brief it is a pure virtual method that makes the robot release an object
+         * @param string
+         * @return Returns none
+         */
         virtual void Release(std::string) = 0;      //--Arm releases an object
 
     public:
         //--constructor
 
-/**
- * @brief it is a constructor of the class landbasedrobot
- * @param string name_
- * @param int x_
- * @param int y_
- * @return Returns none
- */
-        LandBasedRobot(std::string name_, int x_, int y_){
-            name_ =  name_;
-            x_ = x_;
-            y_ = y_;
+        /**
+         * @brief it is a constructor of the class LandBasedRobot
+         * @param string name_
+         * @param int x_
+         * @param int y_
+         * @return Returns none
+         */
+        LandBasedRobot(std::string name, int x, int y){
+            name_ =  name;
+            x_ = x;
+            y_ = y;
         }
 
         //--destructor
 
-/**
- * @brief it is a destructor of the class landbasedrobot and deletes the objects created
- * @param none
- * @return Returns none
- */
+        /**
+         * @brief it is a destructor of the class landbasedrobot and deletes the objects created
+         * @param none
+         * @return Returns none
+         */
         ~LandBasedRobot(){}
 
     public:
     //--mutators
 
-/**
- * @brief it is a setter method for the x-axis
- * @param int x_
- * @return Returns none
- */
+        /**
+         * @brief it is a setter method for the x-axis
+         * @param int x_
+         * @return Returns none
+         */
         void set_x_(int x_){
             x_ = x_;
         }
 
-/**
- * @brief it is a setter method for the y-axis
- * @param int y_
- * @return Returns none
- */
+        /**
+         * @brief it is a setter method for the y-axis
+         * @param int y_
+         * @return Returns none
+         */
         void set_y_(int y_){
             y_ = y_;
         }
+
+
     //--accessors
 
-/**
- * @brief it is a getter method for the x-axis
- * @param none
- * @return Returns int x_
- */
+        /**
+         * @brief it is a getter method for the x-axis
+         * @param none
+         * @return Returns int x_
+         */
         int get_x_() const{
             return x_;
         }
 
-/**
- * @brief it is a getter method for the y-axis
- * @param none
- * @return Returns int y_
- */
+        /**
+         * @brief it is a getter method for the y-axis
+         * @param none
+         * @return Returns int y_
+         */
         int get_y_() const{
             return y_;
         }

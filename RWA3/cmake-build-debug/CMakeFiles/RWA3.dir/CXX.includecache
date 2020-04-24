@@ -6,37 +6,45 @@
 
 #IncludeRegexTransform: 
 
-/home/karan/CLionProjects/RWA3/LandBasedRobot/landbasedrobot.h
+/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedRobot/landbasedrobot.cpp
+landbasedrobot.h
+/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedRobot/landbasedrobot.h
+
+/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedRobot/landbasedrobot.h
 string
 -
 iostream
 -
 
-/home/karan/CLionProjects/RWA3/LandBasedTracked/landbasedtracked.cpp
+/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedTracked/landbasedtracked.cpp
 landbasedtracked.h
-/home/karan/CLionProjects/RWA3/LandBasedTracked/landbasedtracked.h
+/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedTracked/landbasedtracked.h
 
-/home/karan/CLionProjects/RWA3/LandBasedTracked/landbasedtracked.h
+/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedTracked/landbasedtracked.h
 string
 -
 iostream
 -
 ../LandBasedRobot/landbasedrobot.h
-/home/karan/CLionProjects/RWA3/LandBasedRobot/landbasedrobot.h
+/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedRobot/landbasedrobot.h
 
-/home/karan/CLionProjects/RWA3/LandBasedWheeled/landbasedwheeled.h
+/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedWheeled/landbasedwheeled.cpp
+landbasedwheeled.h
+/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedWheeled/landbasedwheeled.h
+
+/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedWheeled/landbasedwheeled.h
 string
 -
 iostream
 -
 ../LandBasedRobot/landbasedrobot.h
-/home/karan/CLionProjects/RWA3/LandBasedRobot/landbasedrobot.h
+/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedRobot/landbasedrobot.h
 
-/home/karan/CLionProjects/RWA3/main.cpp
+/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/main.cpp
 LandBasedWheeled/landbasedwheeled.h
-/home/karan/CLionProjects/RWA3/LandBasedWheeled/landbasedwheeled.h
+/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedWheeled/landbasedwheeled.h
 LandBasedTracked/landbasedtracked.h
-/home/karan/CLionProjects/RWA3/LandBasedTracked/landbasedtracked.h
+/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedTracked/landbasedtracked.h
 vector
 -
 memory

@@ -1,4 +1,4 @@
-# Install script for directory: /home/karan/CLionProjects/RWA3
+# Install script for directory: /mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/karan/CLionProjects/RWA3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

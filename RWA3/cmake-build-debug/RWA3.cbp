@@ -8,104 +8,104 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/home/karan/CLionProjects/RWA3/cmake-build-debug"/>
+				<Option working_dir="/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/home/karan/CLionProjects/RWA3/cmake-build-debug"/>
+				<Option working_dir="/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="RWA3">
-				<Option output="/home/karan/CLionProjects/RWA3/cmake-build-debug/RWA3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/karan/CLionProjects/RWA3/cmake-build-debug"/>
+				<Option output="/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/RWA3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/5"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
-					<Add directory="/usr/include/c++/5/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
 					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 RWA3"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 RWA3"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="RWA3/fast">
-				<Option output="/home/karan/CLionProjects/RWA3/cmake-build-debug/RWA3" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/karan/CLionProjects/RWA3/cmake-build-debug"/>
+				<Option output="/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/RWA3" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/include/c++/5"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
-					<Add directory="/usr/include/c++/5/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
 					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
 					<Add directory="/usr/include/x86_64-linux-gnu"/>
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 RWA3/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 RWA3/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/home/karan/CLionProjects/RWA3/cmake-build-debug"/>
+				<Option working_dir="/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/home/karan/CLionProjects/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/mnt/f/Sudo/Academics/Semester\ 04/Introduction\ to\ Robot\ Programming/Assignments/RWA\ 3/ENPM809Y-RWA3/RWA3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/karan/CLionProjects/RWA3/LandBasedRobot/landbasedrobot.cpp">
+		<Unit filename="/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedRobot/landbasedrobot.cpp">
 			<Option target="RWA3"/>
 		</Unit>
-		<Unit filename="/home/karan/CLionProjects/RWA3/LandBasedRobot/landbasedrobot.h">
+		<Unit filename="/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedRobot/landbasedrobot.h">
 			<Option target="RWA3"/>
 		</Unit>
-		<Unit filename="/home/karan/CLionProjects/RWA3/LandBasedTracked/landbasedtracked.cpp">
+		<Unit filename="/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedTracked/landbasedtracked.cpp">
 			<Option target="RWA3"/>
 		</Unit>
-		<Unit filename="/home/karan/CLionProjects/RWA3/LandBasedTracked/landbasedtracked.h">
+		<Unit filename="/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedTracked/landbasedtracked.h">
 			<Option target="RWA3"/>
 		</Unit>
-		<Unit filename="/home/karan/CLionProjects/RWA3/LandBasedWheeled/landbasedwheeled.cpp">
+		<Unit filename="/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedWheeled/landbasedwheeled.cpp">
 			<Option target="RWA3"/>
 		</Unit>
-		<Unit filename="/home/karan/CLionProjects/RWA3/LandBasedWheeled/landbasedwheeled.h">
+		<Unit filename="/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/LandBasedWheeled/landbasedwheeled.h">
 			<Option target="RWA3"/>
 		</Unit>
-		<Unit filename="/home/karan/CLionProjects/RWA3/main.cpp">
+		<Unit filename="/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/main.cpp">
 			<Option target="RWA3"/>
 		</Unit>
-		<Unit filename="/home/karan/CLionProjects/RWA3/CMakeLists.txt">
+		<Unit filename="/mnt/f/Sudo/Academics/Semester 04/Introduction to Robot Programming/Assignments/RWA 3/ENPM809Y-RWA3/RWA3/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
