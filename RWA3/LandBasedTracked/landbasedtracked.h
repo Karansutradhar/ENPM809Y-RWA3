@@ -19,7 +19,7 @@
 *
 * @section DESCRIPTION
 *
-*  This is the header for the LandBasedTracked class which inherits
+*  This is the header for the LandBasedTracked class which is a concrete class and inherits
 *  the base class LandBasedRobot and declares the necessary attributes
 *  and method prototypes.
 */
