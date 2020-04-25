@@ -26,11 +26,18 @@ Update: 24th April 2020: 7AM (Sudharsan):
     1. I don't think we need a deep copy constructor I thought about it while creating
       the initial files in the branch, given no pointers in the any of the three classes
       there is no need for a deep copy constructor.
+      Yes maybe in next part of the program we have to implement maybe.
     2. I believe improvements to constructor can be looked into, for naming conventions
       I modified few but if someone can verify the correctness that would be great.
+      I have changed a few, naming conventions (google)
 #--------------------------------------------------------------------------------#
 
   Further:
   1. Doxy file generation and check on commenting for all files
   2. Verification on naming standards and conventions as per Google norms/definitions.
   3. Writing UIDs of authors
+  
+  Updation 
+  1. Writing UIDs of Girish
+  2. Comments in main.cpp
+  3. Doxygen file/ documentation
