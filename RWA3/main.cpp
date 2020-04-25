@@ -19,7 +19,9 @@
 *
 * @section DESCRIPTION
 *
-*  This is main.cpp the project implementation file a.k.a source file.
+*  This is main.cpp file for the project which involves developing the bueprint/structure of a project 
+*  using object-oriented programming, inheritance, and polymorphism. Here, two mobile robots 
+*  are tasked to navigate through a maze and pick up objects.
 */
 
 #include "LandBasedWheeled/landbasedwheeled.h"
