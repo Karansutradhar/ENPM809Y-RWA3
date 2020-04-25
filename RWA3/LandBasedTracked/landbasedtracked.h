@@ -94,10 +94,10 @@ namespace RWA3 {
          * @param int y_
          * @return Returns none
          */
-        LandBasedTracked(std::string name, int x, int y): LandBasedRobot(name, x, y){
-            name_ =  name;
-            x_ = x;
-            y_ = y;
+        LandBasedTracked(std::string name_, int x_, int y_): LandBasedRobot(name_, x_, y_){
+            name_ =  name_;
+            x_ = x_;
+            y_ = y_;
         }
 
         //--destructor
